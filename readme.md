@@ -4,7 +4,7 @@
 
 <br/>
 
-<h1 align="center">Hi 👋 I'm Prince</h1>
+<h1 align="center">Hi 👋 I'm priyanshu</h1>
 <h3 align="center">🚀 Full-Stack Developer | 5+ Years Experience | Builder of Beautiful & Scalable Tech</h3>
 
 <p align="center">

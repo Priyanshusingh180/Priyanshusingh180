@@ -72,4 +72,4 @@
 
 ## 🏆 Achievements
 
-- 💻 350+ problems on C
+- 💻 350+ problems on C++
